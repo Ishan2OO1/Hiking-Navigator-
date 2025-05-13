@@ -32,7 +32,7 @@ This project simulates a hiking trail navigator that finds the optimal path acro
 <img src="UI_Hiking.png" alt="UI Screenshot" width="100%">
 
 
-# 🖥️ Running the Project
+## 🖥️ Running the Project
 
 Ensure you have all dependencies installed using:
 
@@ -40,7 +40,7 @@ Ensure you have all dependencies installed using:
 pip install -r requirements.txt
 
 python main.py
-
+```
 
 
 ##  Demo Video
@@ -48,13 +48,12 @@ python main.py
 [Click to watch demo video](./Demo.mp4)
 
 
----
 
 
 
 
 
----
+
 
 
 
